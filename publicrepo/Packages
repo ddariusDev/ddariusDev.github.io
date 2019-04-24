@@ -1,5 +1,5 @@
 Package: com.ddariusdev.nopoweroff
-Version: 1.0-1+debug
+Version: 1.0
 Section: Tweaks
 Maintainer: Miclaus Darius
 Depends: mobilesubstrate
@@ -13,15 +13,15 @@ Name: NoPowerOff
 Author: Miclaus Darius
 
 Package: com.ddariusdev.nopoweroff-arm64e
-Version: 1.0-2+debug
+Version: 1.0
 Section: Tweaks (arm64e)
 Maintainer: Miclaus Darius
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files//NoPowerOff-arm64e/com.ddariusdev.nopoweroff-arm64e_1.0-2+debug_iphoneos-arm.deb
-Size: 2582
+Architecture: iphoneos-arm64e
+Filename: Files//NoPowerOff-arm64e/com.ddariusdev.nopoweroff-arm64e_1.0-4+debug_iphoneos-arm64e.deb
+Size: 2576
 Installed-Size: 56
-MD5sum: ebbdbf4fa41f2f1157744237be2e341c
+MD5sum: 7ba487bbdd8701cf1af5b8821cc9a0f1
 Description: Disable The Ability to *Accidentally* Power Off Your Device (Now for arm64e Devices!)
 Name: NoPowerOff(arm64e)
 Author: Miclaus Darius
