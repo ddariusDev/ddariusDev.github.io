@@ -1,5 +1,5 @@
 Package: com.ddariusdev.nopoweroff
-Version: 1.0
+Version: 1.0-1+debug
 Section: Tweaks
 Maintainer: Miclaus Darius
 Depends: mobilesubstrate
@@ -13,7 +13,7 @@ Name: NoPowerOff
 Author: Miclaus Darius
 
 Package: com.ddariusdev.nopoweroff-arm64e
-Version: 1.0
+Version: 1.0-4+debug
 Section: Tweaks (arm64e)
 Maintainer: Miclaus Darius
 Depends: mobilesubstrate
