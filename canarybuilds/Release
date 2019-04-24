@@ -1,0 +1,8 @@
+Origin: Darius's Repo (Canary Builds)
+Label: Darius's Repo (Canary Builds)
+Suite: develop/canary
+Version: 1.0
+Codename: drepo64-canary
+Architectures: iphoneos-arm
+Components: main
+Description: Darius's Sileo Repository (Canary Builds)

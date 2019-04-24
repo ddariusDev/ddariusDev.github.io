@@ -1,0 +1,14 @@
+Package: com.ddariusdev.modernls-arm64
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Miclaus Darius
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//ModernLS/com.ddariusdev.modernls-arm64_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4216
+Installed-Size: 104
+MD5sum: 1e24f7805d1a713ce07a8334de2467ad
+Description: Modernize Your Lockscreen
+Name: ModernLS
+Author: Miclaus Darius
+
