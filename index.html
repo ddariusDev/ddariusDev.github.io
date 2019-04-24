@@ -4,13 +4,13 @@
 <hr>
 <h4>My Packages:</h4>
 <ul style="list-style-type:circle;">
-  <li>UIAlertPowerDown</li>
+  <li>NoPowerOff (Disable The Ability to *Accidentally* Power Off Your Device)</li>
 </ul>
 <div id="samples" style="width:100%"></div>
 <script type="text/javascript">
 //Some fast iOS check.
 is_ios = (navigator.userAgent.match(/iPad/i) != null) || (navigator.userAgent.match(/iPhone/i) != null) || (navigator.userAgent.match(/iPod/i) != null);
-if (!is_ios) document.getElementById('ocy').innerHTML = ' Most likely, you will not be able to open Sileo.';
+if (!is_ios) document.getElementById('ocy').innerHTML = 'Warning: It Seems That Your Are Not on an iOS Device. Only Jailbroken iOS Devices can add this Repo.';
 
 //The functionality for the package list.
 function Apt_package() {
@@ -136,6 +136,6 @@ xhr.send();
 <!-- include this where you want the standard design template from here... -->
 <script type="text/javascript" src="../template.js"></script>
 <noscript>
-As this website uses JavaScript to generate a semi-dynamically created page, you need to activate JavaScript!
+!!!Please enable Javascript!!!
 </noscript>
 <!-- ...until here! -->
