@@ -26,3 +26,17 @@ Description: Disable The Ability to *Accidentally* Power Off Your Device (Now fo
 Name: NoPowerOff(arm64e)
 Author: Miclaus Darius
 
+Package: com.uprisecreations.blurrylaunch
+Version: 1.0
+Section: Tweaks
+Maintainer: Miclaus Darius
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//BlurryLaunch/com.uprisecreations.blurrylaunch_0.0.1-68_iphoneos-arm.deb
+Size: 48908
+Installed-Size: 220
+MD5sum: 300b9ba5e3ed81c49de0724941548187
+Description: Add A Blur Effect When Launching Apps
+Name: BlurryLaunch
+Author: Miclaus Darius
+
